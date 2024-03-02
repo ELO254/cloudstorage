@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "264325577876",
+    "project_id": "speed-tracker-fc697",
+    "storage_bucket": "speed-tracker-fc697.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264325577876:android:ee096bbe8307e533364881",
+        "android_client_info": {
+          "package_name": "com.example.cloudfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264325577876-b6gt4st1bojnqdpbf6sclnup7kg857mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChBb4Tp-uyf-gFWfbt4Xv788FPN2jGoIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264325577876-b6gt4st1bojnqdpbf6sclnup7kg857mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264325577876:android:af74e5cbf5ea5193364881",
+        "android_client_info": {
+          "package_name": "com.example.grosary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264325577876-b6gt4st1bojnqdpbf6sclnup7kg857mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChBb4Tp-uyf-gFWfbt4Xv788FPN2jGoIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264325577876-b6gt4st1bojnqdpbf6sclnup7kg857mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264325577876:android:f2477a112107e936364881",
+        "android_client_info": {
+          "package_name": "com.example.speed_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264325577876-b6gt4st1bojnqdpbf6sclnup7kg857mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChBb4Tp-uyf-gFWfbt4Xv788FPN2jGoIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264325577876-b6gt4st1bojnqdpbf6sclnup7kg857mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264325577876:android:acd1311265d07b8c364881",
+        "android_client_info": {
+          "package_name": "com.example.speedtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264325577876-b6gt4st1bojnqdpbf6sclnup7kg857mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChBb4Tp-uyf-gFWfbt4Xv788FPN2jGoIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264325577876-b6gt4st1bojnqdpbf6sclnup7kg857mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
